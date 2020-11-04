@@ -51,7 +51,7 @@ class Stack(metaclass=Meta):
 
 print("A little more about me")
 
-xnewbie = {
+Ajibcdefgh = {
     'pronouns': 'he' or 'him' or 'his',
     'fullname': 'Ajibcdefgh',
     'nationality': ['Indonesia', 'ID'],
