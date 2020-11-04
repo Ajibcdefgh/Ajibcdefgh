@@ -1,10 +1,74 @@
-### Hi there 👋
+<h1 align="center"><b>GITHUB PROFILE </b></h1><br>
+<img src="https://telegra.ph/file/ab676ff9e9e4068bcc1f5.jpg" />
+<a href="https://www.reddit.com/user">
+  <img align="right" alt="Ajibcdefgh Reddit" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://www.youtube.com">
+  <img align="right" alt="Ajibcdefgh Youtube Channel" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://pinterest.com">
+  <img align="right" alt="Ajibcdefgh Pinterest" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />
+</a>
+<a href="https://t.me/X_Newbie">
+  <img align="left" alt="Ajibcdefgh Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://twitter.com">
+  <img align="left" alt="Ajibcdefgh Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/">
+  <img align="left" alt="Ajibcdefgh Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com">
+  <img align="center" alt="Ajibcdefgh Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br>
+<br><p align="center"><a href="https://github.com/Ajibcdefgh"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAjibcdefgh&longCache=true"></a></p>
+<p align="center"><a href="https://github.com/Ajibcdefgh"><img src="https://github-readme-stats.vercel.app/api?username=Ajibcdefgh&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Ajibcdefgh"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajibcdefgh&theme=radical&layout=compact"></a></p>
+<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="495px">
 
-![logo](https://telegra.ph/file/ab676ff9e9e4068bcc1f5.jpg)
+```python3
 
-my name is aji, i am 16 years old
-I'm just a student, whose hobby is kanger
-My job is just translating someone else's repo, and adding a little module
-I live in Central Kalimantan, Indonesia, to be more precise in the village of Lada Mandala Jaya
-I am the second of 3 siblings
-want to be friends with me? please chat me on [Telegram](https://t.me/abcdefvvck)
+from dataclasses import dataclass
+from typing import Tuple
+
+
+class Meta(type):
+    def __new__(cls, name, bases, attrs):
+        for attr in attrs:
+            if not attr.startswith("_"):
+                __annotations__[attr] = Tuple[str, ...]
+        attrs["__annotations__"] = __annotations__
+        new_cls = super().__new__(cls, name, bases, attrs)
+        new_cls = dataclass(new_cls)
+        return new_cls
+
+
+class Stack(metaclass=Meta):
+    languages   = ("Python", "Bash")
+    ongoing     = ("C")
+
+
+print("A little more about me")
+
+xnewbie = {
+    'pronouns': 'he' or 'him' or 'his',
+    'fullname': 'Ajibcdefgh',
+    'nationality': ['Indonesia', 'ID'],
+    'location': 'Central Kalimantan',
+    'contact': {
+        'email': 'darkobunny57@gmail.com',
+        'website': 'https://gmail.com',
+    },
+    'about': [
+        'A student',
+        'A fan of eimi fukada',
+        'I\'m considering myself as a runner. (even tho rarely do it) xd',
+        'Love girl and money',
+        'Human.',
+        'Still don\'t know how to feel about Last of Us 2 ending'
+    ],
+    }
+```
+
+
