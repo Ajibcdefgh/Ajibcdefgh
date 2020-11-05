@@ -1,7 +1,6 @@
 ### Welcome To My Profile
 
-![logo](https://telegra.ph/file/dc095c3e1acc30701dfeb.jpg)
+<a href="https://t.me/abcdefvvck"> <img src="https://img.shields.io/badge/Telegram-blue?style=social&logo=Telegram" /></a>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ajibcdefgh)
 
-### My name Aji\n"
-### I live in Central Kalimantan\n"
-### I'm 16 years old
+![logo](https://telegra.ph/file/dc095c3e1acc30701dfeb.jpg)
