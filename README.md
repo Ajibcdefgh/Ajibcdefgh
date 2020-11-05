@@ -1,15 +1,12 @@
 <h1 align="center"><b>WELCOME TO MY GITHUB </b></h1><br>
 <img src="https://telegra.ph/file/ab676ff9e9e4068bcc1f5.jpg" />
-<a href="https://www.reddit.com/user">
-  <img align="right" alt="Ajibcdefgh Reddit" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
 <a href="https://www.youtube.com">
   <img align="right" alt="Ajibcdefgh Youtube Channel" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://pinterest.com">
   <img align="right" alt="Ajibcdefgh Pinterest" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />
 </a>
-<a href="https://t.me/X_Newbie">
+<a href="https://t.me/abcdefvvck">
   <img align="left" alt="Ajibcdefgh Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://twitter.com">
@@ -44,11 +41,6 @@ class Meta(type):
         return new_cls
 
 
-class Stack(metaclass=Meta):
-    languages   = ("Python", "Bash")
-    ongoing     = ("C")
-
-
 print("A little more about me")
 
 Ajibcdefgh = {
@@ -58,7 +50,6 @@ Ajibcdefgh = {
     'location': 'Central Kalimantan',
     'contact': {
         'email': 'darkobunny57@gmail.com',
-        'website': 'https://gmail.com',
     },
     'about': [
         'A student',
